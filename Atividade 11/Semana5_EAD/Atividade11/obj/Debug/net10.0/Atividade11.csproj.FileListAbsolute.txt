@@ -1,0 +1,14 @@
+C:\Users\asgar\Desktop\Semana5_EAD\Atividade11\obj\Debug\net10.0\Atividade11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asgar\Desktop\Semana5_EAD\Atividade11\obj\Debug\net10.0\Atividade11.AssemblyInfoInputs.cache
+C:\Users\asgar\Desktop\Semana5_EAD\Atividade11\obj\Debug\net10.0\Atividade11.AssemblyInfo.cs
+C:\Users\asgar\Desktop\Semana5_EAD\Atividade11\obj\Debug\net10.0\Atividade11.csproj.CoreCompileInputs.cache
+C:\Users\asgar\Desktop\Semana5_EAD\Atividade11\bin\Debug\net10.0\Atividade11.exe
+C:\Users\asgar\Desktop\Semana5_EAD\Atividade11\bin\Debug\net10.0\Atividade11.deps.json
+C:\Users\asgar\Desktop\Semana5_EAD\Atividade11\bin\Debug\net10.0\Atividade11.runtimeconfig.json
+C:\Users\asgar\Desktop\Semana5_EAD\Atividade11\bin\Debug\net10.0\Atividade11.dll
+C:\Users\asgar\Desktop\Semana5_EAD\Atividade11\bin\Debug\net10.0\Atividade11.pdb
+C:\Users\asgar\Desktop\Semana5_EAD\Atividade11\obj\Debug\net10.0\Atividade11.dll
+C:\Users\asgar\Desktop\Semana5_EAD\Atividade11\obj\Debug\net10.0\refint\Atividade11.dll
+C:\Users\asgar\Desktop\Semana5_EAD\Atividade11\obj\Debug\net10.0\Atividade11.pdb
+C:\Users\asgar\Desktop\Semana5_EAD\Atividade11\obj\Debug\net10.0\Atividade11.genruntimeconfig.cache
+C:\Users\asgar\Desktop\Semana5_EAD\Atividade11\obj\Debug\net10.0\ref\Atividade11.dll
